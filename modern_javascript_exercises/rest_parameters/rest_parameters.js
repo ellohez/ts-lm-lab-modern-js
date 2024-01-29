@@ -1,4 +1,5 @@
 // Instructions can be found in rest_parameters.md
+// DONE!! 
 
 // Add rest parameters here!
 export function add(...nums) {
