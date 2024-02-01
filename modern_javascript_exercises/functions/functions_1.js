@@ -4,6 +4,7 @@
 // logPerson() is a "Function Declaration"
 // Note how it uses the "function" keyword at the beginning of it's declaration
 // This is the original way of writing functions in JavaScript
+// DONE!
 
 const people = ["Harry", "Hermione", "Ron"];
 
